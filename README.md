@@ -19,11 +19,13 @@ Pada halaman ini, daftar makanan yang tersedia akan ditampilkan. Pengguna dapat 
 ### HALAMAN ORDER
 Setelah memilih makanan, pengguna diarahkan ke halaman order untuk melakukan konfirmasi pesanan.
 
-<img width="178" alt="Screenshot 2024-10-27 151205" src="https://github.com/user-attachments/assets/9faf1d69-3967-4241-b307-b43ba5cad686">
+![image](https://github.com/user-attachments/assets/dbdb2707-f4ec-44c6-b663-99cffaa041e6)
+
 
 ### HALAMAN HASIL ORDER
 Pada halaman hasil order, rincian pesanan pengguna akan ditampilkan sebagai konfirmasi akhir.
 
-<img width="181" alt="Screenshot 2024-10-27 151333" src="https://github.com/user-attachments/assets/5c33dd84-bef5-4daa-a0a3-b9753be0f4a5">
+![image](https://github.com/user-attachments/assets/397cbb56-3356-4221-b4ee-9fcf77e77d27)
+
 
 
