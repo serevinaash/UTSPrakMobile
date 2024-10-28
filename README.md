@@ -13,7 +13,8 @@ Pada halaman login, pengguna dapat memasukkan username dan password untuk mengak
 ### HALAMAN LIST FOOD
 Pada halaman ini, daftar makanan yang tersedia akan ditampilkan. Pengguna dapat memilih makanan yang ingin dipesan.
 
-<img width="182" alt="Screenshot 2024-10-27 151403" src="https://github.com/user-attachments/assets/4508ff3c-f10c-4c26-b869-6897965f1c26">
+<img width="190" alt="Screenshot 2024-10-27 151232" src="https://github.com/user-attachments/assets/26b6784f-a981-4276-abef-9668650ae24b">
+
 
 ### HALAMAN ORDER
 Setelah memilih makanan, pengguna diarahkan ke halaman order untuk melakukan konfirmasi pesanan.
